@@ -24,7 +24,7 @@ A responsive Age Calculator built with HTML, CSS, and JavaScript. Users can ente
 
 ## Live Demo
 
-GitHub Pages: *()*
+GitHub Pages: *(https://zainabtechy.github.io/04-age-calculator/)*
 
 ## 📂 Source Code
 
